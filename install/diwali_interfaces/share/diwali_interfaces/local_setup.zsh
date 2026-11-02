@@ -1,0 +1,1 @@
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/ament_cmake_environment_hooks/local_setup.zsh

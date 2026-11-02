@@ -1,0 +1,9 @@
+source;share/diwali_festival/hook/pythonpath.ps1
+source;share/diwali_festival/hook/pythonpath.dsv
+source;share/diwali_festival/hook/pythonpath.sh
+source;share/diwali_festival/hook/ament_prefix_path.ps1
+source;share/diwali_festival/hook/ament_prefix_path.dsv
+source;share/diwali_festival/hook/ament_prefix_path.sh
+source;../../build/diwali_festival/share/diwali_festival/hook/pythonpath_develop.ps1
+source;../../build/diwali_festival/share/diwali_festival/hook/pythonpath_develop.dsv
+source;../../build/diwali_festival/share/diwali_festival/hook/pythonpath_develop.sh

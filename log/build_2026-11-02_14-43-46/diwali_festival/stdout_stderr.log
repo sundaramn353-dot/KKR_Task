@@ -1,0 +1,56 @@
+running egg_info
+creating ../../build/diwali_festival/diwali_festival.egg-info
+writing ../../build/diwali_festival/diwali_festival.egg-info/PKG-INFO
+writing dependency_links to ../../build/diwali_festival/diwali_festival.egg-info/dependency_links.txt
+writing entry points to ../../build/diwali_festival/diwali_festival.egg-info/entry_points.txt
+writing requirements to ../../build/diwali_festival/diwali_festival.egg-info/requires.txt
+writing top-level names to ../../build/diwali_festival/diwali_festival.egg-info/top_level.txt
+writing manifest file '../../build/diwali_festival/diwali_festival.egg-info/SOURCES.txt'
+reading manifest file '../../build/diwali_festival/diwali_festival.egg-info/SOURCES.txt'
+writing manifest file '../../build/diwali_festival/diwali_festival.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+copying diwali_festival/sound_controller.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+copying diwali_festival/festival_manager.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+copying diwali_festival/fireworks_controller.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+copying diwali_festival/gz_interface.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+copying diwali_festival/__init__.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+copying diwali_festival/lighting_controller.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival
+running install
+running install_lib
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+copying /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival/sound_controller.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+copying /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival/festival_manager.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+copying /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival/fireworks_controller.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+copying /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival/gz_interface.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+copying /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival/__init__.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+copying /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/build/lib/diwali_festival/lighting_controller.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival
+byte-compiling /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival/sound_controller.py to sound_controller.cpython-312.pyc
+byte-compiling /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival/festival_manager.py to festival_manager.cpython-312.pyc
+byte-compiling /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival/fireworks_controller.py to fireworks_controller.cpython-312.pyc
+byte-compiling /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival/gz_interface.py to gz_interface.cpython-312.pyc
+byte-compiling /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival/lighting_controller.py to lighting_controller.cpython-312.pyc
+running install_data
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/ament_index
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/ament_index/resource_index
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/ament_index/resource_index/packages
+copying resource/diwali_festival -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/ament_index/resource_index/packages
+copying package.xml -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/launch
+copying launch/festival.launch.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/launch
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/config
+copying config/festival_params.yaml -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/config
+creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+copying sounds/firework_launch.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+copying sounds/firework_burst.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+copying sounds/firework_crackle.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+copying sounds/temple_bell.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+running install_egg_info
+Copying ../../build/diwali_festival/diwali_festival.egg-info to /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali_festival-0.1.0-py3.12.egg-info
+running install_scripts
+Installing festival_manager script to /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/diwali_festival
+writing list of installed files to '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/install.log'

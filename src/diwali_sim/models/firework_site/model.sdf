@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<sdf version="1.9">
+  <model name="firework_site">
+    <static>true</static>
+    <link name="link">
+      <visual name="tube">
+        <pose>0.0000 0.0000 0.4000 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0800</radius>
+            <length>0.8000</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.157 0.176 1.0</ambient>
+          <diffuse>0.157 0.157 0.176 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.7</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="sand">
+        <pose>0.0000 0.0000 0.0500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.5000</radius>
+            <length>0.1000</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.471 0.392 0.275 1.0</ambient>
+          <diffuse>0.471 0.392 0.275 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>1.0</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <particle_emitter name="rocket" type="box">
+        <emitting>false</emitting>
+        <size>0.3 0.3 0.3</size>
+        <particle_size>0.3 0.3 0.3</particle_size>
+        <lifetime>1.5</lifetime>
+        <min_velocity>20</min_velocity>
+        <max_velocity>22</max_velocity>
+        <rate>60</rate>
+        <pose>0.0000 0.0000 0.6000 0.0000 0.0000 0.0000</pose>
+        <color_start>1 0.9 0.5 1</color_start>
+        <color_end>1 0.4 0.1 0</color_end>
+        <topic>/festival/fw/demo/rocket</topic>
+      </particle_emitter>
+      <particle_emitter name="smoke" type="box">
+        <emitting>false</emitting>
+        <size>0.4 0.4 0.4</size>
+        <particle_size>0.9 0.9 0.9</particle_size>
+        <lifetime>3.5</lifetime>
+        <min_velocity>6</min_velocity>
+        <max_velocity>12</max_velocity>
+        <rate>25</rate>
+        <pose>0.0000 0.0000 0.6000 0.0000 0.0000 0.0000</pose>
+        <color_start>0.55 0.55 0.55 0.5</color_start>
+        <color_end>0.25 0.25 0.25 0</color_end>
+        <scale_rate>0.4</scale_rate>
+        <topic>/festival/fw/demo/smoke</topic>
+      </particle_emitter>
+      <particle_emitter name="gold" type="ellipsoid">
+        <emitting>false</emitting>
+        <size>1 1 1</size>
+        <particle_size>0.35 0.35 0.35</particle_size>
+        <lifetime>2.2</lifetime>
+        <min_velocity>5</min_velocity>
+        <max_velocity>9</max_velocity>
+        <rate>350</rate>
+        <pose>0.0000 0.0000 28.0000 0.0000 0.0000 0.0000</pose>
+        <color_start>1 0.78 0.15 1</color_start>
+        <color_end>1 0.35 0 0</color_end>
+        <topic>/festival/fw/demo/gold</topic>
+      </particle_emitter>
+      <particle_emitter name="red" type="ellipsoid">
+        <emitting>false</emitting>
+        <size>1 1 1</size>
+        <particle_size>0.35 0.35 0.35</particle_size>
+        <lifetime>2.2</lifetime>
+        <min_velocity>5</min_velocity>
+        <max_velocity>9</max_velocity>
+        <rate>350</rate>
+        <pose>0.0000 0.0000 28.0000 0.0000 0.0000 0.0000</pose>
+        <color_start>1 0.1 0.1 1</color_start>
+        <color_end>0.6 0 0 0</color_end>
+        <topic>/festival/fw/demo/red</topic>
+      </particle_emitter>
+      <particle_emitter name="blue" type="ellipsoid">
+        <emitting>false</emitting>
+        <size>1 1 1</size>
+        <particle_size>0.35 0.35 0.35</particle_size>
+        <lifetime>2.2</lifetime>
+        <min_velocity>5</min_velocity>
+        <max_velocity>9</max_velocity>
+        <rate>350</rate>
+        <pose>0.0000 0.0000 28.0000 0.0000 0.0000 0.0000</pose>
+        <color_start>0.2 0.4 1 1</color_start>
+        <color_end>0.05 0.1 0.6 0</color_end>
+        <topic>/festival/fw/demo/blue</topic>
+      </particle_emitter>
+      <particle_emitter name="green" type="ellipsoid">
+        <emitting>false</emitting>
+        <size>1 1 1</size>
+        <particle_size>0.35 0.35 0.35</particle_size>
+        <lifetime>2.2</lifetime>
+        <min_velocity>5</min_velocity>
+        <max_velocity>9</max_velocity>
+        <rate>350</rate>
+        <pose>0.0000 0.0000 28.0000 0.0000 0.0000 0.0000</pose>
+        <color_start>0.2 1 0.3 1</color_start>
+        <color_end>0 0.5 0.1 0</color_end>
+        <topic>/festival/fw/demo/green</topic>
+      </particle_emitter>
+      <particle_emitter name="sparkle" type="ellipsoid">
+        <emitting>false</emitting>
+        <size>4 4 4</size>
+        <particle_size>0.12 0.12 0.12</particle_size>
+        <lifetime>1.6</lifetime>
+        <min_velocity>1</min_velocity>
+        <max_velocity>3</max_velocity>
+        <rate>150</rate>
+        <pose>0.0000 0.0000 28.0000 0.0000 0.0000 0.0000</pose>
+        <color_start>1 1 1 1</color_start>
+        <color_end>1 0.8 0.3 0</color_end>
+        <topic>/festival/fw/demo/sparkle</topic>
+      </particle_emitter>
+    </link>
+  </model>
+</sdf>

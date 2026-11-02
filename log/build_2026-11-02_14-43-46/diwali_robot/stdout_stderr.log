@@ -1,0 +1,50 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot
+-- Install configuration: ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/urdf
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/urdf/diwali_bot.urdf.xacro
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/meshes
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/meshes/.gitkeep
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config/bridge.yaml
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config/nav2_params.yaml
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config/slam_toolbox.yaml
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch/slam.launch.py
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch/nav2.launch.py
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch/robot.launch.py
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/worlds
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/worlds/test_world.sdf
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/maps
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/maps/diwali_street.pgm
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/maps/diwali_street.yaml
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/ament_index/resource_index/package_run_dependencies/diwali_robot
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/ament_index/resource_index/parent_prefix_path/diwali_robot
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/ament_prefix_path.sh
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/ament_prefix_path.dsv
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/path.sh
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/path.dsv
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.bash
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.sh
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.zsh
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.dsv
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/package.dsv
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/ament_index/resource_index/packages/diwali_robot
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/cmake/diwali_robotConfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/cmake/diwali_robotConfig-version.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/package.xml

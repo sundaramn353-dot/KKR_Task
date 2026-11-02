@@ -1,0 +1,1 @@
+xacro;robot_state_publisher;ros_gz_sim;ros_gz_bridge;rviz2;slam_toolbox;nav2_bringup;nav2_map_server

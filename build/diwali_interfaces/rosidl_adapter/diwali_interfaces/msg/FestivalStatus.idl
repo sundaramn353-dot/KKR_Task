@@ -1,0 +1,41 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from diwali_interfaces/msg/FestivalStatus.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module diwali_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "Published on /festival/event_status (reliable, transient_local, depth 1)")
+    struct FestivalStatus {
+      builtin_interfaces::msg::Time stamp;
+
+      @verbatim (language="comment", text=
+        "AUTONOMOUS | MANUAL")
+      string mode;
+
+      boolean fireworks_enabled;
+
+      boolean lighting_enabled;
+
+      boolean sound_enabled;
+
+      @verbatim (language="comment", text=
+        "on | off | dim | bright | twinkle | festive")
+      string lighting_mode;
+
+      @verbatim (language="comment", text=
+        "e.g. \"golden_burst@fw_n1 ACCEPTED (topic)\"")
+      string last_event;
+
+      uint32 events_triggered;
+
+      uint32 events_rejected;
+
+      @verbatim (language="comment", text=
+        "-1 when autonomous mode is off")
+      float seconds_to_next_auto_event;
+    };
+  };
+};

@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4fdcf3996d04d0aca3b0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "diwali_interfaces__py",
+					"jsonFile" : "directory-diwali_interfaces__py-17eeb577b7d66075ea9c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/diwali_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "diwali_interfaces__rs",
+					"jsonFile" : "directory-diwali_interfaces__rs-98d3160d05ea9feef037.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/diwali_interfaces__rs",
+					"targetIndexes" : 
+					[
+						14
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "diwali_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_diwali_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_diwali_interfaces_egg-216b9aab8fd8f6e96b85.json",
+					"name" : "ament_cmake_python_build_diwali_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_diwali_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_diwali_interfaces-d73e0451359459ae6a20.json",
+					"name" : "ament_cmake_python_symlink_diwali_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces-eb4a0e92a48602e446e5.json",
+					"name" : "diwali_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__cpp-23a84bb7c026d9a941bc.json",
+					"name" : "diwali_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "diwali_interfaces__py::@59542807b2ca801273f1",
+					"jsonFile" : "target-diwali_interfaces__py-635f0c772b90ab489a44.json",
+					"name" : "diwali_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_generator_c-38b346ec781001c4ae17.json",
+					"name" : "diwali_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_generator_py-e095555c5af99b5aa389.json",
+					"name" : "diwali_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_generator_type_description-a517594ffa9f1aa86a64.json",
+					"name" : "diwali_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_typesupport_c-4afd9dff6547d13698e1.json",
+					"name" : "diwali_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_typesupport_cpp-a316ef28a2f5682e129d.json",
+					"name" : "diwali_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_typesupport_fastrtps_c-bf61aacb0f9b7df64b2d.json",
+					"name" : "diwali_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_typesupport_fastrtps_cpp-f77003f54a86e6fe5d49.json",
+					"name" : "diwali_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_typesupport_introspection_c-bb68ce3c8b815e3ec2ae.json",
+					"name" : "diwali_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces__rosidl_typesupport_introspection_cpp-f4cc8430710b4dffb548.json",
+					"name" : "diwali_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "diwali_interfaces__rs::@f7934e6e5cfe47fa3b9b",
+					"jsonFile" : "target-diwali_interfaces__rs-9172dadf7981eff017d4.json",
+					"name" : "diwali_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces_s__rosidl_typesupport_c-da9ca413969d9930aeb1.json",
+					"name" : "diwali_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces_s__rosidl_typesupport_fastrtps_c-64ad0400e2c6669dc1ce.json",
+					"name" : "diwali_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces_s__rosidl_typesupport_introspection_c-2c4ca3c5ec3f5ada408e.json",
+					"name" : "diwali_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diwali_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diwali_interfaces_uninstall-72d6d9e8b590b5912412.json",
+					"name" : "diwali_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-1799edeb71896206bc11.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces",
+		"source" : "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/src/diwali_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

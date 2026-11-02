@@ -1,0 +1,23 @@
+running develop
+running egg_info
+writing diwali_festival.egg-info/PKG-INFO
+writing dependency_links to diwali_festival.egg-info/dependency_links.txt
+writing entry points to diwali_festival.egg-info/entry_points.txt
+writing requirements to diwali_festival.egg-info/requires.txt
+writing top-level names to diwali_festival.egg-info/top_level.txt
+reading manifest file 'diwali_festival.egg-info/SOURCES.txt'
+writing manifest file 'diwali_festival.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/python3.12/site-packages/diwali-festival.egg-link (link to .)
+Installing festival_manager script to /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/lib/diwali_festival
+
+Installed /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival
+running symlink_data
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/resource/diwali_festival -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/ament_index/resource_index/packages
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/package.xml -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/launch/festival.launch.py -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/launch
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/config/festival_params.yaml -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/config
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/sounds/firework_launch.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/sounds/firework_burst.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/sounds/firework_crackle.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds
+symbolically linking /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_festival/sounds/temple_bell.wav -> /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival/share/diwali_festival/sounds

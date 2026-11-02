@@ -1,0 +1,532 @@
+<?xml version="1.0" ?>
+<sdf version="1.9">
+  <model name="cracker_string">
+    <static>true</static>
+    <link name="link">
+      <visual name="fuse">
+        <pose>0.0000 0.0000 0.0120 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <box>
+            <size>1.2500 0.0060 0.0060</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.275 0.235 0.157 1.0</ambient>
+          <diffuse>0.275 0.235 0.157 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.9</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c0">
+        <pose>-0.5750 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c1">
+        <pose>-0.5250 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c2">
+        <pose>-0.4750 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c3">
+        <pose>-0.4250 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c4">
+        <pose>-0.3750 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c5">
+        <pose>-0.3250 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c6">
+        <pose>-0.2750 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c7">
+        <pose>-0.2250 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c8">
+        <pose>-0.1750 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c9">
+        <pose>-0.1250 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c10">
+        <pose>-0.0750 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c11">
+        <pose>-0.0250 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c12">
+        <pose>0.0250 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c13">
+        <pose>0.0750 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c14">
+        <pose>0.1250 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c15">
+        <pose>0.1750 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c16">
+        <pose>0.2250 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c17">
+        <pose>0.2750 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c18">
+        <pose>0.3250 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c19">
+        <pose>0.3750 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c20">
+        <pose>0.4250 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c21">
+        <pose>0.4750 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.157 0.588 0.235 1.0</ambient>
+          <diffuse>0.157 0.588 0.235 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c22">
+        <pose>0.5250 -0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="c23">
+        <pose>0.5750 0.0220 0.0120 1.5708 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0090</radius>
+            <length>0.0500</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.824 0.118 0.118 1.0</ambient>
+          <diffuse>0.824 0.118 0.118 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+    </link>
+  </model>
+</sdf>

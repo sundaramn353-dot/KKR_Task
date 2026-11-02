@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_generator_py/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_c.so" "TARGETS" "diwali_interfaces_s__rosidl_typesupport_c" "DESTINATION" "lib/python3.12/site-packages/diwali_interfaces")

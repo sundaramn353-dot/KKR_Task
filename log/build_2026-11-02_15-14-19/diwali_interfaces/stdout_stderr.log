@@ -1,0 +1,205 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found builtin_interfaces: 2.0.4 (/opt/ros/jazzy/share/builtin_interfaces/cmake)
+-- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rosidl_default_generators: 1.6.1 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+-- Found rosidl_adapter: 4.6.9 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+-- Found ament_cmake_ros: 0.12.1 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+-- Found PythonExtra: /usr/bin/python3  
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (2.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces
+[  2%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[  5%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[  5%] Built target ament_cmake_python_symlink_diwali_interfaces
+[  5%] Built target diwali_interfaces__rosidl_generator_type_description
+[  8%] [34m[1mGenerating C code for ROS interfaces[0m
+[ 11%] [34m[1mGenerating C++ code for ROS interfaces[0m
+running egg_info
+creating diwali_interfaces.egg-info
+writing diwali_interfaces.egg-info/PKG-INFO
+writing dependency_links to diwali_interfaces.egg-info/dependency_links.txt
+writing top-level names to diwali_interfaces.egg-info/top_level.txt
+writing manifest file 'diwali_interfaces.egg-info/SOURCES.txt'
+[ 11%] Built target diwali_interfaces__rs
+reading manifest file 'diwali_interfaces.egg-info/SOURCES.txt'
+writing manifest file 'diwali_interfaces.egg-info/SOURCES.txt'
+[ 11%] Built target ament_cmake_python_build_diwali_interfaces_egg
+[ 11%] Built target diwali_interfaces__cpp
+[ 14%] [32mBuilding C object CMakeFiles/diwali_interfaces__rosidl_generator_c.dir/rosidl_generator_c/diwali_interfaces/msg/detail/festival_status__type_support.c.o[0m
+[ 17%] [32mBuilding C object CMakeFiles/diwali_interfaces__rosidl_generator_c.dir/rosidl_generator_c/diwali_interfaces/msg/detail/festival_status__description.c.o[0m
+[ 20%] [32mBuilding C object CMakeFiles/diwali_interfaces__rosidl_generator_c.dir/rosidl_generator_c/diwali_interfaces/msg/detail/festival_status__functions.c.o[0m
+[ 22%] [32m[1mLinking C shared library libdiwali_interfaces__rosidl_generator_c.so[0m
+[ 22%] Built target diwali_interfaces__rosidl_generator_c
+[ 25%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[ 28%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[ 31%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 37%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[ 37%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[ 40%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/diwali_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diwali_interfaces/msg/festival_status__type_support.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/diwali_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diwali_interfaces/msg/detail/festival_status__type_support.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/diwali_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/diwali_interfaces/msg/festival_status__type_support.cpp.o[0m
+[ 51%] [32mBuilding C object CMakeFiles/diwali_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diwali_interfaces/msg/detail/festival_status__type_support.c.o[0m
+[ 54%] [32m[1mLinking CXX shared library libdiwali_interfaces__rosidl_typesupport_c.so[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/diwali_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diwali_interfaces/msg/detail/dds_fastrtps/festival_status__type_support.cpp.o[0m
+[ 60%] [32m[1mLinking C shared library libdiwali_interfaces__rosidl_typesupport_introspection_c.so[0m
+[ 60%] Built target diwali_interfaces__rosidl_typesupport_c
+[ 62%] [32mBuilding CXX object CMakeFiles/diwali_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diwali_interfaces/msg/detail/festival_status__type_support_c.cpp.o[0m
+[ 62%] Built target diwali_interfaces__rosidl_typesupport_introspection_c
+[ 65%] [32m[1mLinking CXX shared library libdiwali_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[ 68%] [32m[1mLinking CXX shared library libdiwali_interfaces__rosidl_typesupport_cpp.so[0m
+[ 68%] Built target diwali_interfaces__rosidl_typesupport_introspection_cpp
+[ 68%] Built target diwali_interfaces__rosidl_typesupport_cpp
+[ 71%] [32m[1mLinking CXX shared library libdiwali_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 74%] [32m[1mLinking CXX shared library libdiwali_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[ 74%] Built target diwali_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 74%] Built target diwali_interfaces__rosidl_typesupport_fastrtps_c
+[ 74%] Built target diwali_interfaces
+[ 77%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 77%] Built target diwali_interfaces__py
+[ 80%] [32mBuilding C object CMakeFiles/diwali_interfaces__rosidl_generator_py.dir/rosidl_generator_py/diwali_interfaces/msg/_festival_status_s.c.o[0m
+[ 82%] [32m[1mLinking C shared library libdiwali_interfaces__rosidl_generator_py.so[0m
+[ 82%] Built target diwali_interfaces__rosidl_generator_py
+[ 85%] [32mBuilding C object CMakeFiles/diwali_interfaces_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/diwali_interfaces/_diwali_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[ 91%] [32mBuilding C object CMakeFiles/diwali_interfaces_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/diwali_interfaces/_diwali_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 88%] [32mBuilding C object CMakeFiles/diwali_interfaces_s__rosidl_typesupport_c.dir/rosidl_generator_py/diwali_interfaces/_diwali_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[ 94%] [32m[1mLinking C shared module rosidl_generator_py/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_c.so[0m
+[ 97%] [32m[1mLinking C shared module rosidl_generator_py/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_introspection_c.so[0m
+[ 97%] Built target diwali_interfaces_s__rosidl_typesupport_c
+[100%] [32m[1mLinking C shared module rosidl_generator_py/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_fastrtps_c.so[0m
+[100%] Built target diwali_interfaces_s__rosidl_typesupport_introspection_c
+[100%] Built target diwali_interfaces_s__rosidl_typesupport_fastrtps_c
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/ament_index/resource_index/rosidl_interfaces/diwali_interfaces
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/msg/FestivalStatus.json
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__functions.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__struct.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__type_support.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/festival_status.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/library_path.sh
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/library_path.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__builder.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__struct.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__traits.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__type_support.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/festival_status.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/include/diwali_interfaces/diwali_interfaces/msg/detail/festival_status__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/pythonpath.sh
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/pythonpath.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces-0.1.0-py3.12.egg-info/PKG-INFO
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces-0.1.0-py3.12.egg-info/SOURCES.txt
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces-0.1.0-py3.12.egg-info/dependency_links.txt
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces-0.1.0-py3.12.egg-info/top_level.txt
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/__init__.py
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/_diwali_interfaces_s.ep.rosidl_typesupport_c.c
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/_diwali_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/_diwali_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_c.so
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_fastrtps_c.so
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_introspection_c.so
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/msg/__init__.py
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/msg/_festival_status.py
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/msg/_festival_status_s.c
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_fastrtps_c.so
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_introspection_c.so
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/diwali_interfaces_s__rosidl_typesupport_c.so
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/ament_index/resource_index/rust_packages/diwali_interfaces
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/rust/Cargo.toml
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/rust/build.rs
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/rust/src/lib.rs
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/rust/src/msg.rs
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/rust/src/msg/rmw.rs
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/msg/FestivalStatus.idl
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/msg/FestivalStatus.msg
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/ament_index/resource_index/package_run_dependencies/diwali_interfaces
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/ament_index/resource_index/parent_prefix_path/diwali_interfaces
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/ament_prefix_path.sh
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/ament_prefix_path.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/path.sh
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/environment/path.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/local_setup.bash
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/local_setup.sh
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/local_setup.zsh
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/local_setup.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/package.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/ament_index/resource_index/packages/diwali_interfaces
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/rosidl_cmake_aggregate_target-extras.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfacesConfig.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfacesConfig-version.cmake
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/package.xml
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_generator_c.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_generator_c.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_fastrtps_c.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_fastrtps_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_introspection_c.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_c.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_c.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_cpp.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_typesupport_cpp.so" to ""
+Listing '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces'...
+Compiling '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/__init__.py'...
+Listing '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/msg'...
+Compiling '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/msg/__init__.py'...
+Compiling '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/python3.12/site-packages/diwali_interfaces/msg/_festival_status.py'...
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_generator_py.so
+-- Set non-toolchain portion of runtime path of "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/lib/libdiwali_interfaces__rosidl_generator_py.so" to ""
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_generator_cExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_generator_cppExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_cExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/diwali_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_generator_pyExport.cmake
+-- Installing: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/cmake/export_diwali_interfaces__rosidl_generator_pyExport-noconfig.cmake

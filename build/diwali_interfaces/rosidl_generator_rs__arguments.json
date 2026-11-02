@@ -1,0 +1,34 @@
+{
+  "package_name": "diwali_interfaces",
+  "output_dir": "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_generator_rs/diwali_interfaces",
+  "template_dir": "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource",
+  "idl_tuples": [
+    "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_adapter/diwali_interfaces:msg/FestivalStatus.idl"
+  ],
+  "ros_interface_files": [
+    "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_adapter/diwali_interfaces/msg/FestivalStatus.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../../../lib/rosidl_generator_rs/rosidl_generator_rs",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../../../lib/python3.12/site-packages/rosidl_generator_rs/__init__.py",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/action.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/action/rmw.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/msg.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/msg/rmw.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/srv.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/srv/rmw.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/templates/msg_idiomatic.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/templates/msg_rmw.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/templates/srv_idiomatic.rs.em",
+    "/opt/ros/jazzy/share/rosidl_generator_rs/cmake/../resource/templates/srv_rmw.rs.em",
+    "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_adapter/diwali_interfaces/msg/FestivalStatus.idl",
+    "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_adapter/diwali_interfaces/msg/FestivalStatus.idl",
+    "/opt/ros/jazzy/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/jazzy/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "package_version": "0.1.0"
+}

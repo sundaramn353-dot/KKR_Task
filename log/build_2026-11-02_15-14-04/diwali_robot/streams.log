@@ -1,0 +1,39 @@
+[0.012s] Invoking command in '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/sundar/Downloads/whatsapp/diwali_ros2_ws/src/diwali_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot
+[0.076s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.286s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.388s] -- Configuring done (0.3s)
+[0.392s] -- Generating done (0.0s)
+[0.393s] -- Build files have been written to: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot
+[0.395s] Invoked command in '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/sundar/Downloads/whatsapp/diwali_ros2_ws/src/diwali_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot
+[0.396s] Invoking command in '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot -- -j12 -l12
+[0.437s] Invoked command in '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot -- -j12 -l12
+[0.447s] Invoking command in '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot
+[0.456s] -- Install configuration: ""
+[0.456s] -- Execute custom install script
+[0.457s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/urdf/diwali_bot.urdf.xacro
+[0.467s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/meshes/.gitkeep
+[0.476s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config/bridge.yaml
+[0.483s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config/nav2_params.yaml
+[0.493s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/config/slam_toolbox.yaml
+[0.502s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch/nav2.launch.py
+[0.511s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch/robot.launch.py
+[0.521s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/launch/slam.launch.py
+[0.530s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/worlds/test_world.sdf
+[0.540s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/maps/diwali_street.pgm
+[0.549s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/maps/diwali_street.yaml
+[0.556s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/ament_index/resource_index/package_run_dependencies/diwali_robot
+[0.564s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/ament_index/resource_index/parent_prefix_path/diwali_robot
+[0.574s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/ament_prefix_path.sh
+[0.581s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/ament_prefix_path.dsv
+[0.591s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/path.sh
+[0.600s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/environment/path.dsv
+[0.607s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.bash
+[0.617s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.sh
+[0.625s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.zsh
+[0.631s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/local_setup.dsv
+[0.638s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/package.dsv
+[0.645s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/ament_index/resource_index/packages/diwali_robot
+[0.653s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/cmake/diwali_robotConfig.cmake
+[0.662s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/cmake/diwali_robotConfig-version.cmake
+[0.671s] -- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_robot/share/diwali_robot/package.xml
+[0.680s] Invoked command in '/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_festival:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_robot

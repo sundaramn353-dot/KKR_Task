@@ -1,0 +1,1 @@
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/rosidl_typesupport_introspection_c/diwali_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h

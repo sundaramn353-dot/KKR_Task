@@ -1,0 +1,2 @@
+[console_scripts]
+festival_manager = diwali_festival.festival_manager:main

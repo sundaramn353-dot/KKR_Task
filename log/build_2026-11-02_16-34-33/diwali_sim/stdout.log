@@ -1,0 +1,81 @@
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/worlds/diwali_street.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/city_tower_blue/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/city_tower_blue/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/city_tower_rose/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/city_tower_rose/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/city_tower_teal/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/city_tower_teal/model.sdf
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/cracker_cake/model.config
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/cracker_cake/model.sdf
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/cracker_string/model.config
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/cracker_string/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/diya/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/diya/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/diya_visual_only/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/diya_visual_only/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/festival_banner/materials/textures/banner.png
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/festival_banner/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/festival_banner/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/firework_site/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/firework_site/model.sdf
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/flower_pot/model.config
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/flower_pot/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/kolam/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/kolam/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/kolam_small/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/kolam_small/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/led_string_4m/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/led_string_4m/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/led_string_9m/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/led_string_9m/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/marigold_garland/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/marigold_garland/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/rangoli/materials/textures/kolam_white.png
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/rangoli/materials/textures/rangoli_mandala.png
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/rangoli/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/rangoli/model.sdf
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/rocket_bottle/model.config
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/rocket_bottle/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/sparkler/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/sparkler/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/streetlight/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/streetlight/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house_pink/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house_pink/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house_teal/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house_teal/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house_yellow/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/tamil_house_yellow/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/toran/model.config
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/models/toran/model.sdf
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/materials/README.md
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/launch/diwali_robot.launch.py
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/launch/diwali_world.launch.py
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/launch/full_diwali_sim.launch.py
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/config/festival_lights.yaml
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/plugins/README.md
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/lib/diwali_sim/generate_assets.py
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/ament_index/resource_index/package_run_dependencies/diwali_sim
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/ament_index/resource_index/parent_prefix_path/diwali_sim
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/environment/path.sh
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/environment/path.dsv
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/local_setup.bash
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/local_setup.sh
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/local_setup.zsh
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/local_setup.dsv
+-- Symlinking: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/package.dsv
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/ament_index/resource_index/packages/diwali_sim
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/cmake/diwali_simConfig.cmake
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/cmake/diwali_simConfig-version.cmake
+-- Up-to-date symlink: /home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_sim/share/diwali_sim/package.xml

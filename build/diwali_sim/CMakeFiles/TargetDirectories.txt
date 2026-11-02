@@ -1,0 +1,9 @@
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/uninstall.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/diwali_sim_uninstall.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/test.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/edit_cache.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/rebuild_cache.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/list_install_components.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/install.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/install/local.dir
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_sim/CMakeFiles/install/strip.dir

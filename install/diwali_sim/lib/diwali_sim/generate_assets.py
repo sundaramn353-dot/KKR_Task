@@ -1,0 +1,1 @@
+/home/sundar/Downloads/whatsapp/diwali_ros2_ws/src/diwali_sim/scripts/generate_assets.py

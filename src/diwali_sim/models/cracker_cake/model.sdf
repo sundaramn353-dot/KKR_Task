@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<sdf version="1.9">
+  <model name="cracker_cake">
+    <static>true</static>
+    <link name="link">
+      <visual name="crate">
+        <pose>0.0000 0.0000 0.1200 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <box>
+            <size>0.3600 0.3600 0.2400</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.784 0.118 0.157 1.0</ambient>
+          <diffuse>0.784 0.118 0.157 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.6</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="ribbon_x">
+        <pose>0.0000 0.0000 0.1200 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <box>
+            <size>0.3700 0.0500 0.2450</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.941 0.745 0.157 1.0</ambient>
+          <diffuse>0.941 0.745 0.157 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.4</roughness>
+              <metalness>0.3</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="ribbon_y">
+        <pose>0.0000 0.0000 0.1200 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <box>
+            <size>0.0500 0.3700 0.2450</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>0.941 0.745 0.157 1.0</ambient>
+          <diffuse>0.941 0.745 0.157 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.4</roughness>
+              <metalness>0.3</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tubem1m1">
+        <pose>-0.1100 -0.1100 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tubem10">
+        <pose>-0.1100 0.0000 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tubem11">
+        <pose>-0.1100 0.1100 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tube0m1">
+        <pose>0.0000 -0.1100 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tube00">
+        <pose>0.0000 0.0000 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tube01">
+        <pose>0.0000 0.1100 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tube1m1">
+        <pose>0.1100 -0.1100 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tube10">
+        <pose>0.1100 0.0000 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <visual name="tube11">
+        <pose>0.1100 0.1100 0.2500 0.0000 0.0000 0.0000</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.0350</radius>
+            <length>0.0400</length>
+          </cylinder>
+        </geometry>
+        <material>
+          <ambient>0.118 0.118 0.137 1.0</ambient>
+          <diffuse>0.118 0.118 0.137 1.0</diffuse>
+          <specular>0.2 0.2 0.2 1</specular>
+          <pbr>
+            <metal>
+              <roughness>0.8</roughness>
+              <metalness>0.0</metalness>
+            </metal>
+          </pbr>
+        </material>
+        <cast_shadows>false</cast_shadows>
+      </visual>
+      <particle_emitter name="shots" type="box">
+        <emitting>true</emitting>
+        <size>0.25 0.25 0.02</size>
+        <particle_size>0.06 0.06 0.06</particle_size>
+        <lifetime>1.4</lifetime>
+        <min_velocity>5</min_velocity>
+        <max_velocity>8</max_velocity>
+        <rate>90</rate>
+        <pose>0.0000 0.0000 0.2800 0.0000 -1.5708 0.0000</pose>
+        <color_start>1 0.2 0.6 1</color_start>
+        <color_end>0.3 0.6 1 0</color_end>
+        <topic>/festival/cracker/demo_cake</topic>
+      </particle_emitter>
+      <light name="cake_light" type="point">
+        <pose>0.0000 0.0000 0.8000 0.0000 0.0000 0.0000</pose>
+        <cast_shadows>false</cast_shadows>
+        <diffuse>1 0.4 0.7 1</diffuse>
+        <specular>1 0.4 0.7 1</specular>
+        <intensity>0.7</intensity>
+        <attenuation>
+          <range>5</range>
+          <constant>0.3</constant>
+          <linear>0.4</linear>
+          <quadratic>0.5</quadratic>
+        </attenuation>
+      </light>
+    </link>
+  </model>
+</sdf>

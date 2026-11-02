@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "diwali_interfaces__py",
+		"source" : "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/build/diwali_interfaces/diwali_interfaces__py"
+	}
+}

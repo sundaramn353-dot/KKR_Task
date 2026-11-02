@@ -1,0 +1,2 @@
+# generated from colcon_core/shell/template/command_prefix.sh.em
+. "/home/sundar/Downloads/whatsapp/diwali_ros2_ws/install/diwali_interfaces/share/diwali_interfaces/package.sh"
